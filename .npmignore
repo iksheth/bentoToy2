@@ -5,12 +5,13 @@
 /.pnp
 /.vscode
 .pnp.js
-/es
-/lib
 
 # testing
 /coverage
 
+# storybook
+/.storybook
+/src/stories/
 # production
 /build
 
